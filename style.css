@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+     margin: 0px;
+}
+
+header{
+    background-color:#d68a3e;
+    border-bottom: double;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar ul{
+     
+    list-style: none;
+    background-color: green;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+   
+
+}
+
+.navbar a{
+    color: tomato;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    
+}
+.navbar a:hover{
+    background-color: rgb(10, 10, 10);
+}
+.navbar li{
+   float: left;  
+   
+}
+#pizza {
+    float: left;
+    padding: 5px;
+}
+#burger {
+    float: left;
+    padding: 5px;
+}   
+#hotdog{
+    float: left;
+    padding: 5px;
+}
+button a {
+    text-decoration: none;
+    color: whitesmoke   
+}
+button{
+    background-color: rgba(0, 0, 0, 0.582);
+}
+button :hover{
+    color: rgb(38, 173, 56);
+}
+
+
