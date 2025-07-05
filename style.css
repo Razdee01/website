@@ -54,9 +54,23 @@ button a {
 }
 button{
     background-color: rgba(0, 0, 0, 0.582);
+    margin-top:35px;
+    margin-left: 40px;
 }
 button :hover{
     color: rgb(38, 173, 56);
 }
 
+h2{
+    text-align: center;
+    background-color:lightblue ;
+    display: block;
+    
+}
+p.form {
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 8px solid;
+    
+}
 
